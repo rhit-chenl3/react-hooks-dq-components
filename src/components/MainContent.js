@@ -7,7 +7,6 @@ function MainContent() {
   <main>
     <GenrePicker />
     <AlbumList />
-    
   </main>
   );
 }

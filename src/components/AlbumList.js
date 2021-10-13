@@ -14,7 +14,7 @@ function AlbumList() {
         />
       );
   });
-
+  
   return(
     <section className="albums">
       {ind_album}
